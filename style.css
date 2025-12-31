@@ -110,7 +110,7 @@ nav a:hover::after { width: 100%; }
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(6,78,59,0.8), rgba(6,78,59,0.6)),
-                url('images/hero-background.jpg') no-repeat center/cover;
+                url('images/hero.jpeg') no-repeat center/cover;
     background-attachment: fixed;
     display: flex;
     align-items: center;
@@ -472,3 +472,4 @@ footer {
     .service-icon { width: 68px; height: 68px; font-size: 30px; }
     .service-card { padding: 24px 18px; }
 }
+
